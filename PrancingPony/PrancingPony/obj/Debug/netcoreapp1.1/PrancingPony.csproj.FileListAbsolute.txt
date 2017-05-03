@@ -1,0 +1,9 @@
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\bin\Debug\netcoreapp1.1\PrancingPony.deps.json
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\bin\Debug\netcoreapp1.1\PrancingPony.runtimeconfig.json
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\bin\Debug\netcoreapp1.1\PrancingPony.runtimeconfig.dev.json
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\obj\Debug\netcoreapp1.1\PrancingPony.csprojResolveAssemblyReference.cache
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\obj\Debug\netcoreapp1.1\PrancingPony.AssemblyInfo.cs
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\bin\Debug\netcoreapp1.1\PrancingPony.dll
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\bin\Debug\netcoreapp1.1\PrancingPony.pdb
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\obj\Debug\netcoreapp1.1\PrancingPony.dll
+C:\NM\TFS\NMG\PrancingPony\PrancingPony\obj\Debug\netcoreapp1.1\PrancingPony.pdb
